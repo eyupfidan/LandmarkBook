@@ -1,7 +1,7 @@
 
 # Landmarkbook
 
-Highlights implementation using UImage and TableView.
+Find city using UImage and TableView.
 
  
 
